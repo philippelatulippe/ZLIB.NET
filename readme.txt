@@ -1,3 +1,6 @@
+NOTICE: This repository is not maintained, it is simply a mirror of the original library from ComponentAce.
+For an active fork, try https://github.com/Elskom/zlib.managed/
+
 ZLIB.NET: README
 ==================================================
 
